@@ -5,11 +5,11 @@
 
 ---
 
-## 🧠 What I'm doing right now
+## What I'm doing right now
 - Building **backend systems** with **Python** and **Node.js**, integrating **AI SDKs**, **MCP servers**, and **agent workflows**.
 - Designing solutions with **modular thinking**, focusing on **scalability**, and planning clean architectures that can grow.
 
-## 🧩 Core focus
+## Core focus
 - **Full Stack** development mainly with:
   - **Django** (APIs, services, integrations, internal tools)
   - **React** (modern UIs, reusable components)
@@ -17,14 +17,14 @@
 
 ---
 
-## 🚀 Personal project
+## Personal project
 I'm building an **E-commerce platform** with **AI Agents** integrated for:
 - **Internal operations** (automation, management processes, support tooling)
 - **Customer service** (assistants, guided flows, escalation)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Backend:** Python · Node.js · Django · REST APIs  
 **Frontend:** React · modular UI  
 **AI / Agents:** AI SDKs · MCP Servers · Agent workflows  
@@ -33,13 +33,13 @@ I'm building an **E-commerce platform** with **AI Agents** integrated for:
 
 ---
 
-## ✅ How I work
+## How I work
 - **Modular architectures** that are easy to evolve
 - Emphasis on **readability**, **observability**, and **best practices**
 - Planning for scale: **performance**, **cost**, **deployment**, and **operations**
 
 ---
 
-## 📫 Contact
+## Contact
 - 💼 Work: Turistik
 - ✉️ Email: danieldmascaro1@gmail.com
