@@ -40,6 +40,7 @@ I'm building an **E-commerce platform** with **AI Agents** integrated for:
 
 ---
 
-## Contact <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/514e12d4-bd4c-45c6-b5b0-30aa952aaf8a" />
+## Contact <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/72496986-4a3a-412e-9c4f-ee16ad9199f0" />
+
 - 💼 Work: Turistik
 - ✉️ Email: danieldmascaro1@gmail.com
