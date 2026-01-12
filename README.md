@@ -25,8 +25,8 @@ I'm building an **E-commerce platform** with **AI Agents** integrated for:
 ---
 
 ## Tech Stack
-**Backend:** Python · Node.js · Django · REST APIs  
-**Frontend:** React · modular UI  
+**Backend:** Python · Node.js · Django (DRF) · REST APIs  
+**Frontend:** React · ShadcnUI  
 **AI / Agents:** AI SDKs · MCP Servers · Agent workflows  
 **Cloud:** Azure · AWS  
 **Principles:** modularity · scalability · maintainability
@@ -34,7 +34,7 @@ I'm building an **E-commerce platform** with **AI Agents** integrated for:
 ---
 
 ## How I work
-- **Modular architectures** that are easy to evolve
+- **Modular architectures** that are able to scale
 - Emphasis on **readability**, **observability**, and **best practices**
 - Planning for scale: **performance**, **cost**, **deployment**, and **operations**
 
