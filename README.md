@@ -40,6 +40,7 @@ I'm building an **E-commerce platform** with **AI Agents** integrated for:
 
 ---
 
-![img](https://www.veryicon.com/icons/miscellaneous/template-4/telephone-contact-1.html)## Contact
+![Badge](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/514e12d4-bd4c-45c6-b5b0-30aa952aaf8a" />
+)## Contact
 - 💼 Work: Turistik
 - ✉️ Email: danieldmascaro1@gmail.com
